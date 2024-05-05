@@ -1,0 +1,2 @@
+- name: Test Ping
+  action: ping
