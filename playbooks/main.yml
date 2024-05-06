@@ -1,4 +1,4 @@
 - hosts: server
   become: true
   roles:
-    - role: "zabbix-server"
+    - "zabbix-server"
